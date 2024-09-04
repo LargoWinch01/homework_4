@@ -1,4 +1,4 @@
-let age='17';
+let age='input age';
 
 if (age>=18 && typeof age === 'number'){
     console.log('you can ');
